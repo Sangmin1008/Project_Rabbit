@@ -18,7 +18,6 @@
 
 ---
 <br>
-<br>
 
 # 게임 미리보기
 ![TitleScene](https://github.com/RanKa110/Rabbit/blob/main/Assets/99.%20Externals/image.png)
@@ -26,7 +25,6 @@
 ![vsBossGIF](https://github.com/RanKa110/Rabbit/blob/main/Assets/99.%20Externals/3.gif)
 ![vsEnemy](https://github.com/RanKa110/Rabbit/blob/main/Assets/99.%20Externals/image%20(2).png)
 ---
-<br>
 <br>
 
 # 1. 게임 개요 및 개발 기간
